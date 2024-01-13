@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uno138.ftisiot.net/dewa4d/sitemap.xml
